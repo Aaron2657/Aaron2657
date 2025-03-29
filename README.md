@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Hello! I love Tech and Video Games<br>🧑🏻INFJ-T<br>🌱Still Learning Things<br> 
+💻Hello! I love Tech and Video Games<br> 🌱Still Learning Things<br> 
 ![snake gif](https://github.com/Aaron2657/Aaron2657/blob/output/snake.svg)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/styrax1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/la.mortzxc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaronteston7@gmail.com) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.me/AaronTeston) <br>

@@ -1,7 +1,6 @@
 # 💫 About Me:
 💻Hello! I love Tech and Video Games<br> 🌱Still Learning Things<br> 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hello!+I'm+Aaron!;I+Love+techy+stuff;Go+with+your+own+pace)
-
 ![snake gif](https://github.com/Aaron2657/Aaron2657/blob/output/snake.svg)
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Hello! I love Tech and Video Games<br> 🌱Still Learning Things<br> 
+🌱Still Learning Things<br> 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hello!+I'm+Aaron!;I+Love+My+Girlfriend;Go+with+your+own+pace+when+learning)
 
 ## 🌐 Socials:

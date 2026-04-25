@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 Still Learning Things <br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hello!+I'm+Aaron!;I+Love+My+Girlfriend;Go+at+your+own+pace+when+learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hello!+I'm+Aaron!;I+Love+My+Claire+Nicole;Go+at+your+own+pace+when+learning)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/la.mortzxc) 

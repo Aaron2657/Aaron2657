@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hello!+I'm+Aaron!;I+Love+My+Girlfriend;Go+at+your+own+pace+when+learning)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/styrax1) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/la.mortzxc) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaronteston7@gmail.com) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.me/AaronTeston) <br>

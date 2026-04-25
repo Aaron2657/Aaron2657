@@ -19,8 +19,3 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aaron2657&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Aaron2657&theme=dark&hide_border=false)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aaron2657&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-<br><br>
-[![](https://visitcount.itsvg.in/api?id=Aaron2657&icon=3&color=2)](https://visitcount.itsvg.in)
